@@ -8,7 +8,7 @@ Click the link to open the MixedSignals shop. If you are visiting the site for t
   <img src="https://github.com/KurienEapen/MixedSignals_Shop/blob/master/MS%20Screeenshots/1.jpg" width="350" alt="Screenshot1">
 </p>
 
-Another page will then appear stating that the app isn't verified, this is just a warning presented by google as our website isn't currently HTTPS, it's currently just HTTP. You will have to then click on advance: 
+A message would then appear, stating that the app isn't verified, this is just a warning presented by google as our website isn't HTTPS, it's currently just HTTP. You will have to then click on advance: 
 <p align="center">
   <img src="https://github.com/KurienEapen/MixedSignals_Shop/blob/master/MS%20Screeenshots/2.jpg" width="350" alt="Screenshot2">
 </p>
